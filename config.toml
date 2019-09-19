@@ -1,0 +1,79 @@
+baseurl = "https://hugo-project-7fbe1.firebaseapp.com/"
+languageCode = "en-us"
+title = "Computer Hardware Laboratory"
+theme = "blackburn"
+author = "Yoshiharu Yamashita"
+copyright = "&copy; 2016. All rights reserved."
+canonifyurls = true
+paginate = 10
+
+[indexes]
+  tag = "tags"
+  topic = "topics"
+
+[params]
+  # Shown in the home page
+  subtitle = "ภาควิชาวิศวกรรมคอมพิวเตอร์ คณะวิศวกรรมศาสตร์ มหาวิทยาลัยสงขลานครินทร์"
+  brand = "เมนูหลัก"
+  googleAnalytics = "Your Google Analytics tracking ID"
+  disqus = "Your Disqus shortname"
+  # CSS name for highlight.js
+  highlightjs = "androidstudio"
+  dateFormat = "02 Jan 2006, 15:04"
+
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "ข่าวสาร"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 1
+    identifier = "ข่าวสาร"
+    url = "/"
+  [[menu.main]]
+    name = "แสดงรายการอุปกรณ์"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 2
+    identifier = "แสดงรายการอุปกรณ์"
+    url = "/แสดงรายการอุปกรณ์/"
+  [[menu.main]]
+    name = "แสดงข้อมูลการยืม"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 3
+    identifier = "แสดงข้อมูลการยืม"
+    url = "/แสดงข้อมูลการยืม/"
+  [[menu.main]]
+    name = "ยืมอุปกรณ์"
+    pre = "<i class='fa fa-book fa-fw'></i>"
+    weight = 4
+    identifier = "ยืมอุปกรณ์"
+    url = "/ยืมอุปกรณ์/"
+  [[menu.main]]
+    name = " ยืนยันการยืม"
+    pre = "<i class='fa fa-check-square'></i>"
+    weight = 5
+    identifier = "ยืนยันการยืม"
+    url = "/ยืนยันการยืม/"
+  [[menu.main]]
+    name = " พิมพ์ใบเบิกอุปกรณ์"
+    pre = "<i class='fa fa-print'></i>"
+    weight = 6
+    identifier = "พิมพ์ใบเบิกอุปกรณ์"
+    url = "/พิมพ์ใบเบิกอุปกรณ์/"
+  [[menu.main]]
+    name = "เปลี่ยนรหัสผ่าน"
+    pre = "<i class='fa fa-key fa-fw'></i>"
+    weight = 7
+    identifier = "เปลี่ยนรหัสผ่าน"
+    url = "/เปลี่ยนรหัสผ่าน/"
+  [[menu.main]]
+    name = "วิธีการใช้งาน"
+    pre = "<i class='fa fa-cog fa-fw'></i>"
+    weight = 8
+    identifier = "วิธีการใช้งาน"
+    url = "/วิธีการใช้งาน/"
+    
+
+[social]
+  # Link your social networking accouns to the side menu
+  # by entering your username or ID.
+  facebook = "*"

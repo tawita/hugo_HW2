@@ -3,12 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hugo-project-7fbe1.firebaseapp.com/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <loc>https://hugo-project-7fbe1.firebaseapp.com/</loc>
+    <lastmod>2019-09-10T15:01:27+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hugo-project-7fbe1.firebaseapp.com/</loc>
+    <loc>https://hugo-project-7fbe1.firebaseapp.com/post/</loc>
+    <lastmod>2019-09-10T15:01:27+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugo-project-7fbe1.firebaseapp.com/post/my-third-post/</loc>
+    <lastmod>2019-09-10T15:01:27+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugo-project-7fbe1.firebaseapp.com/post/my-first-post/</loc>
+    <lastmod>2019-09-10T14:59:17+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugo-project-7fbe1.firebaseapp.com/post/my-second-post/</loc>
+    <lastmod>2019-09-10T14:59:17+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugo-project-7fbe1.firebaseapp.com/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
